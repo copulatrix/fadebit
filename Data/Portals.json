@@ -1,0 +1,17 @@
+{
+    "auth": {
+        "Type": "Authencator",
+        "Name": "Auth",
+        "Domain": "auth.fadebit.com"
+    },
+    "cardini": {
+        "Type": "Portal",
+        "Name": "Cardini",
+        "Domain": "cardini.fadebit.com"
+    },
+    "payer": {
+        "Type": "Portal",
+        "Name": "Payer",
+        "Domain": "payer.fadebit.com"
+    }
+}
